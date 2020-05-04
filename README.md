@@ -12,3 +12,6 @@ Create a React and Redux Todo List app. All you need to focus are Actions, Reduc
     --Current Visibility Filter
 
 -Reducers to handle the actions.
+
+bash> npm install
+bash> npm run start
