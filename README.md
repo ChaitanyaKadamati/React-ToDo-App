@@ -13,5 +13,6 @@ Create a React and Redux Todo List app. All you need to focus are Actions, Reduc
 
 -Reducers to handle the actions.
 
-bash> npm install
-bash> npm run start
+>git clone https://github.com/ChaitanyaKadamati/React-ToDo-App.git
+>npm install
+>npm run start
